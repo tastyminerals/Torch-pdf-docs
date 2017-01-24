@@ -1,5 +1,6 @@
 # Torch-pdf-docs
-[Torch](http://torch.ch/docs/package-docs.html) documentation in pdf format.
+[Torch](http://torch.ch/docs/package-docs.html) documentation converted to pdf.
+**trepl**,**cwrap**, **qtlua** and some other packages are not included.
 
 
 ### main:
