@@ -44,6 +44,7 @@
 - [Miscellaneous](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Miscellaneous.pdf) [[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
 
 ### image:
+- [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Overview.pdf) [[source](https://github.com/torch/image/blob/master/README.md)]
 - [Saving and Loading](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Saving%20and%20Loading.pdf) [[source](https://github.com/torch/image/blob/master/doc/saveload.md)]
 - [Simple Transformations](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Simple%20Transformations.pdf) [[source](https://github.com/torch/image/blob/master/doc/simpletransform.md)]
 - [Parametrized Transformations](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Parameterized%20Transformations.pdf) [[source](https://github.com/torch/image/blob/master/doc/paramtransform.md)]
