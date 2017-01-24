@@ -30,6 +30,15 @@ Currently converted chapters (more on the go!):
 ### dpnn:
 - [dpnn : deep extensions to nn](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dpnn/dpnn.pdf) [[source](https://github.com/Element-Research/dpnn)]
 
+### optim:
+- [Overview][[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
+- [Optimization Algorithms][[source](https://github.com/torch/optim/blob/master/doc/algos.md)]
+- [Logger][[source](https://github.com/torch/optim/blob/master/doc/logger.md)]
 
+### paths:
+- [Manipulating Filenames]()[[source](https://github.com/torch/paths/blob/master/doc/filenames.md)]
+- [Directory Functions]()[[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
+- [Miscellaneous]()[[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
 
-
+### gnuplot:
+- [Plotting Lines]()
