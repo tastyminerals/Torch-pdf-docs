@@ -16,28 +16,50 @@
 - [Transfer Function Layers](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Transfer%20Functions.pdf) [[source](https://github.com/torch/nn/blob/master/doc/transfer.md#nn.transfer.dok)]
 - [Simple layers](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Simple%20Layers.pdf) [[source](https://github.com/torch/nn/blob/master/doc/simple.md#nn.simplelayers.dok)]
 - [Table layers](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Table%20Layers.pdf) [[source](https://github.com/torch/nn/blob/master/doc/table.md#nn.TableLayers)]
+- [Convolutional Layers](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Convolutional%20layers.pdf) [[source](https://github.com/torch/nn/blob/master/doc/convolution.md)]
 - [Criterion](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Criterion.pdf) [[source](https://github.com/torch/nn/blob/master/doc/criterion.md#nn.Criterions)]
 - [Training a neural network](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Training.pdf) [[source](https://github.com/torch/nn/blob/master/doc/training.md#nn.traningneuralnet.dok)]
 - [Testing](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nn/Testing.pdf) [[source](https://github.com/torch/nn/blob/master/doc/testing.md)]
 
 ### rnn:
-- [rnn: recurrent neural networks](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/rnn/rnn.pdf) [[source](https://github.com/Element-Research/rnn)]
+- [rnn: Recurrent Neural Networks](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/rnn/rnn.pdf) [[source](https://github.com/Element-Research/rnn)]
+
+### dpnn:
+- [dpnn : Deep Extensions to NN](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dpnn/dpnn.pdf) [[source](https://github.com/Element-Research/dpnn)]
+
+### nngraph
+- [nngraph: Neural Network Graph Package](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nngraph/Neural%20Network%20Graph%20Package.pdf) [[source](https://github.com/torch/nngraph/blob/master/README.md)]
+
+### optim:
+- [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Overview.pdf) [[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
+- [Optimization Algorithms](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Optimization%20Algorithms.pdf) [[source](https://github.com/torch/optim/blob/master/doc/algos.md)]
+- [Logger](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Logger.pdf) [[source](https://github.com/torch/optim/blob/master/doc/logger.md)]
 
 ### dataload:
 - [Dataload](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dataload/dataload.pdf) [[source](https://github.com/Element-Research/dataload)]
 
-### dpnn:
-- [dpnn : deep extensions to nn](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dpnn/dpnn.pdf) [[source](https://github.com/Element-Research/dpnn)]
-
-### optim:
-- [Overview][[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
-- [Optimization Algorithms][[source](https://github.com/torch/optim/blob/master/doc/algos.md)]
-- [Logger][[source](https://github.com/torch/optim/blob/master/doc/logger.md)]
-
 ### paths:
-- [Manipulating Filenames]()[[source](https://github.com/torch/paths/blob/master/doc/filenames.md)]
-- [Directory Functions]()[[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
-- [Miscellaneous]()[[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
+- [Manipulating Filenames](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Manipulating%20Filenames.pdf) [[source](https://github.com/torch/paths/blob/master/doc/filenames.md)]
+- [Directory Functions](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Directory%20Functions.pdf) [[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
+- [Miscellaneous](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Miscellaneous.pdf) [[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
+
+### image:
+- [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Overview.pdf) [[source](https://github.com/torch/image/blob/master/README.md)]
+- [Saving and Loading](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Saving%20and%20Loading.pdf) [[source](https://github.com/torch/image/blob/master/doc/saveload.md)]
+- [Simple Transformations](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Simple%20Transformations.pdf) [[source](https://github.com/torch/image/blob/master/doc/simpletransform.md)]
+- [Parametrized Transformations](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Parameterized%20Transformations.pdf) [[source](https://github.com/torch/image/blob/master/doc/paramtransform.md)]
+- [Simple Drawing Routines](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Simple%20Drawing%20Routines.pdf) [[source](https://github.com/torch/image/blob/master/doc/drawing.md)]
+- [Graphical User Interfaces](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Graphical%20User%20Interfaces.pdf) [[source](https://github.com/torch/image/blob/master/doc/gui.md)]
+- [Color Space Conversions](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Color%20Space%20Conversions.pdf) [[source](https://github.com/torch/image/blob/master/doc/colorspace.md)]
+- [Tensor Constructors](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Tensor%20Constructors.pdf) [[source](https://github.com/torch/image/blob/master/doc/tensorconstruct.md)]
+
 
 ### gnuplot:
-- [Plotting Lines]()
+- [Plotting Lines](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Plotting%20Lines.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/plotline.md#gnuplot.line.dok)]
+- [Plotting Matrices](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Plotting%20Matrices.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/plotmatrix.md#gnuplot.image.dok)]
+- [Plotting 3D Surfaces](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Plotting%203D%20Surfaces.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/plotsurface.md#gnuplot.surface.dok)]
+- [Common Operations](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Common%20Operations.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/common.md)]
+- [Plotting Histograms](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Histograms.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/plothistogram.md#gnuplot.histogram.dok)]
+- [Plotting 3d Points](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Plotting%203D%20Points.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/plot3dpoints.md#gnuplot.scatter3.dok)]
+- [Saving Plots and Files](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/gnuplot/Saving%20Plots%20to%20Files.pdf) [[source](https://github.com/torch/gnuplot/blob/master/doc/file.md#gnuplot.files.dok)]
+
