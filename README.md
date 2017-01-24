@@ -24,21 +24,24 @@
 ### rnn:
 - [rnn: recurrent neural networks](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/rnn/rnn.pdf) [[source](https://github.com/Element-Research/rnn)]
 
-### dataload:
-- [Dataload](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dataload/dataload.pdf) [[source](https://github.com/Element-Research/dataload)]
-
 ### dpnn:
 - [dpnn : deep extensions to nn](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dpnn/dpnn.pdf) [[source](https://github.com/Element-Research/dpnn)]
 
+### nngraph
+- [Neural Network Graph Package](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nngraph/Neural%20Network%20Graph%20Package.pdf) [[source](https://github.com/torch/nngraph/blob/master/README.md)]
+
 ### optim:
-- [Overview] [[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
-- [Optimization Algorithms] [[source](https://github.com/torch/optim/blob/master/doc/algos.md)]
-- [Logger] [[source](https://github.com/torch/optim/blob/master/doc/logger.md)]
+- [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Overview.pdf) [[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
+- [Optimization Algorithms](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Optimization%20Algorithms.pdf) [[source](https://github.com/torch/optim/blob/master/doc/algos.md)]
+- [Logger](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Logger.pdf) [[source](https://github.com/torch/optim/blob/master/doc/logger.md)]
+
+### dataload:
+- [Dataload](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dataload/dataload.pdf) [[source](https://github.com/Element-Research/dataload)]
 
 ### paths:
-- [Manipulating Filenames]() [[source](https://github.com/torch/paths/blob/master/doc/filenames.md)]
-- [Directory Functions]() [[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
-- [Miscellaneous]() [[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
+- [Manipulating Filenames](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Manipulating%20Filenames.pdf) [[source](https://github.com/torch/paths/blob/master/doc/filenames.md)]
+- [Directory Functions](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Directory%20Functions.pdf) [[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
+- [Miscellaneous](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/paths/Miscellaneous.pdf) [[source](https://raw.githubusercontent.com/torch/paths/master/doc/misc.md)]
 
 ### image:
 - [Saving and Loading](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/image/Saving%20and%20Loading.pdf) [[source](https://github.com/torch/image/blob/master/doc/saveload.md)]
