@@ -3,8 +3,11 @@
 
 **trepl**,**cwrap**, **qtlua** and some other packages were not included.
 
+### Torch:
+- [Torch (all-in-one)](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/cumulative/Torch.pdf)
 
 ### main:
+- [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/Overview.pdf) [[source](https://github.com/torch/torch7/blob/master/README.md)]
 - [Tensor](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/Tensor.pdf) [[source](https://github.com/torch/torch7/blob/master/doc/tensor.md)]
 - [CmdLine](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/CmdLine.pdf) [[source](https://github.com/torch/torch7/blob/master/doc/cmdline.md)]
 - [Directory functions](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/Directory%20Functions.pdf) [[source](https://github.com/torch/paths/blob/master/doc/dirfunctions.md)]
