@@ -1,7 +1,7 @@
 # Torch-pdf-docs
 [Torch](http://torch.ch/docs/package-docs.html) documentation converted to pdf.
 
-**trepl**,**cwrap**, **qtlua** and some other packages were not included.
+**trepl**, **cwrap**, **qtlua** and some other packages were not included.
 
 ### Torch:
 - [Torch (all-in-one)](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/cumulative/Torch.pdf)
