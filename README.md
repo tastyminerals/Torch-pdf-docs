@@ -1,5 +1,5 @@
 # Torch-pdf-docs
-Torch documentation in pdf format.
+[Torch](http://torch.ch/docs/package-docs.html) documentation in pdf format.
 
 Currently converted chapters (more on the go!):
 
