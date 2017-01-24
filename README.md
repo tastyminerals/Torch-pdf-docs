@@ -28,7 +28,7 @@
 - [dpnn : Deep Extensions to NN](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/dpnn/dpnn.pdf) [[source](https://github.com/Element-Research/dpnn)]
 
 ### nngraph
-- [Neural Network Graph Package](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nngraph/Neural%20Network%20Graph%20Package.pdf) [[source](https://github.com/torch/nngraph/blob/master/README.md)]
+- [nngraph: Neural Network Graph Package](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/nngraph/Neural%20Network%20Graph%20Package.pdf) [[source](https://github.com/torch/nngraph/blob/master/README.md)]
 
 ### optim:
 - [Overview](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/optim/Overview.pdf) [[source](https://github.com/torch/optim/blob/master/doc/intro.md)]
