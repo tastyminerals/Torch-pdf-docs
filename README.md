@@ -1,7 +1,6 @@
 # Torch-pdf-docs
 [Torch](http://torch.ch/docs/package-docs.html) documentation in pdf format.
 
-Currently converted chapters (more on the go!):
 
 ### main:
 - [Tensor](https://github.com/tastyminerals/Torch-pdf-docs/blob/master/Tensor.pdf) [[source](https://github.com/torch/torch7/blob/master/doc/tensor.md)]
